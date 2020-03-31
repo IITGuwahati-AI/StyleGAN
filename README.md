@@ -18,11 +18,13 @@ Short explanation of encoding approach:
 
 ### Runnable ipython Notebook
 **For now you can play with existing ones: smiling, age, gender.**
-**More examples you can find in the [Jupyter notebook](https://github.com/Yash0330/stylegan-encoder/blob/master/Explained_and_Experimented_with_StyleGAN.ipynb)**
+**More examples you can find in the [Jupyter notebook](https://github.com/Yash0330/stylegan-encoder/blob/master/Explained_and_Experimented_with_StyleGAN.ipynb).**
+
+**This was made using Google Colab.**
 
 **Also try this [Jupyter notebook](https://github.com/Yash0330/stylegan-encoder/blob/master/Play_with_latent_directions.ipynb).**
 
-**For finding your own directions use this [Jupyter notebook](https://github.com/Yash0330/stylegan-encoder/blob/master/Learn_direction_in_latent_space.ipynb).**
+**For finding and training your own directions use this [Jupyter notebook](https://github.com/Yash0330/stylegan-encoder/blob/master/Learn_direction_in_latent_space.ipynb).**
 
 
 
